@@ -5,35 +5,35 @@ def Main():
 
     order_resp = [
         {
-            "type": "1"
+            "type": "1",
             "order_number": "001" 
         },
         {
-            "type": "1"
+            "type": "1",
             "order_number": "002" 
         },
         {
-            "type": "4"
+            "type": "4",
             "order_number": "003" 
         },
         {
-            "type": "2"
+            "type": "2",
             "order_number": "003" 
         },
         {
-            "type": "1"
+            "type": "1",
             "order_number": "005" 
         },
         {
-            "type": "5"
+            "type": "5",
             "order_number": "006" 
         },
         {
-            "type": "3"
+            "type": "3",
             "order_number": "006" 
         },
         {
-            "type": "1"
+            "type": "1",
             "order_number": "007" 
         }
     ]

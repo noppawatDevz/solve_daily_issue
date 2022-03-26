@@ -1,5 +1,5 @@
 def Main():
-    def swap_postions(resp_list, pos1, pos2)
+    def swap_postions(resp_list, pos1, pos2):
         resp_list[pos1], resp_list[pos2] = resp_list[pos2], resp_list[pos1]
         return resp_list
 
@@ -55,6 +55,6 @@ def Main():
         val_pos2 = value.get("pos2")
         
         if val_pos1 != None and val_pos2 != None:
-            order_resp = self.swap_postions(order_resp, val_pos1, val_pos2)
+            order_resp = swap_postions(order_resp, val_pos1, val_pos2)
 
         
